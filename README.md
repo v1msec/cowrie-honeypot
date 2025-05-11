@@ -105,5 +105,3 @@ Other commands focused on reconnaissance and persistence. Some were trying to re
 The attacks were fast, simple, and clearly automated, prioritizing speed and coverage over stealth or complexity.
 
 Overall, this experiment shows how valuable honeypots can be. They help you capture these behaviors and understand how real attackers operate. Beyond detection, they’re great tools for research and learning more about current threats.
-
-*All raw logs from May 1st to May 4th are available in the project folder.*
